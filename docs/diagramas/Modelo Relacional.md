@@ -1,4 +1,4 @@
-Midia {id_midia, id_tmdb, caminho_capa, titulo, titulo_original, sinopse, nota, idioma_original, data_lancamento, tipo}
+Midia {id_midia, id_tmdb, caminho_capa, titulo, titulo_original, sinopse, nota, idioma_original, data_lancamento, status_midia, tipo}
     id_midia - chave primária 
     tipo - 1: Filme, 2: Série
 
